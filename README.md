@@ -11,6 +11,7 @@ BepInEx Installation Guide: https://docs.bepinex.dev/articles/user_guide/install
 (On Steam, this folder is typically here: C:\Program Files (x86)\Steam\steamapps\common\Chef RPG\BepInEx\plugins)
 
 If done correctly, your files should look like so:
+```
 └── plugins/
        └── Curry/
           ├── Assets/
@@ -20,6 +21,7 @@ If done correctly, your files should look like so:
           ├── delete.txt
           ├── dependentspiritual.chefrpg.curry.dll
           └── choose_saves.txt
+```
 
 ## Using Curry
 1. Make a backup of your save file, on Steam, it's probably here: C:\Users\[USERNAME]\AppData\LocalLow\World 2 Studio Inc\Chef RPG\FullData
